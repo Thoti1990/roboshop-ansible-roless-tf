@@ -1,0 +1,12 @@
+MONGODB_HOST: mongodb-prod.devopsaws.site  # submit your host
+REDIS_HOST: redis-prod.devopsaws.site 
+MYSQL_HOST: mysql-prod.devopsaws.site 
+RABBITMQ_HOST: rabbitmq-prod.devopsaws.site 
+CATALOGUE_HOST: catalogue-prod.devopsaws.site 
+USER_HOST: user-prod.devopsaws.site 
+CART_HOST: cart-prod.devopsaws.site 
+SHIPPING_HOST: shipping-prod.devopsaws.site 
+PAYMENT_HOST: payment-prod.devopsaws.site 
+DISPATCH_HOST: dispatch-prod.devopsaws.site
+NEXUS_URL: http://172.31.95.31:8081/repository
+group_id: "com/roboshop"
